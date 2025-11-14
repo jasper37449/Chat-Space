@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+
+# Build / compiled output
+dist
+build
+coverage
+
+# Local env files (VERY important for backend)
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Database / local data (add or remove based on what you use)
+*.sqlite
+*.sqlite3
+/tmp
+data/
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
