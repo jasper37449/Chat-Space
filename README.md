@@ -51,17 +51,17 @@ Update this section with the exact libraries/frameworks you’re using.
 **Backend** (inside `backend/`)
 
 - Runtime: Node.js
-- Web framework: <!-- e.g. Express -->
-- Real-time: <!-- e.g. Socket.io, WebSockets -->
-- Database: <!-- e.g. MongoDB, PostgreSQL, Firebase, etc. -->
-- Other: <!-- e.g. JWT for auth, Mongoose, Prisma, etc. -->
+- Web framework: Express<!-- e.g. Express -->
+- Real-time: Socket.IO<!-- e.g. Socket.io, WebSockets -->
+- Database: MongoDB<!-- e.g. MongoDB, PostgreSQL, Firebase, etc. -->
+- Other: JWT for auth<!-- e.g. JWT for auth, Mongoose, Prisma, etc. -->
 
 **Frontend** (inside `frontend/`)
 
-- Framework: <!-- e.g. React / Vue / Angular -->
-- State management: <!-- e.g. Redux, Context API, Pinia, etc. -->
-- Styling: <!-- e.g. Tailwind CSS, CSS Modules, plain CSS, etc. -->
-- Build tooling: <!-- e.g. Vite, CRA, Webpack, etc. -->
+- Framework: React<!-- e.g. React / Vue / Angular -->
+- State management: Toast<!-- e.g. Redux, Context API, Pinia, etc. -->
+- Styling: Tailwind CSS, DaisyUI, Lucide<!-- e.g. Tailwind CSS, CSS Modules, plain CSS, etc. -->
+- Build tooling: Vite<!-- e.g. Vite, CRA, Webpack, etc. -->
 
 ---
 
